@@ -228,12 +228,4 @@ exports.dailyEPIReport = onSchedule({
 - 🟡 **Amarelo**: Atenção necessária
 - 🔴 **Vermelho**: Ação urgente necessária
 
-## 📝 Licença
-
-Este projeto foi desenvolvido exclusivamente para a **MAXIPLAST** e contém funcionalidades específicas para o controle de EPIs da empresa.
-
-## 🏢 Sobre a MAXIPLAST
-
-Este sistema foi desenvolvido para atender às necessidades específicas de controle de EPIs da MAXIPLAST, garantindo a segurança e conformidade dos colaboradores com as normas de segurança do trabalho.
-
 **⚠️ Importante**: Este sistema gerencia informações críticas de segurança do trabalho. Sempre mantenha os dados atualizados e monitore regularmente os relatórios para garantir a segurança dos colaboradores.
