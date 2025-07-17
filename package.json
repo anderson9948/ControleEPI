@@ -1,0 +1,36 @@
+{
+  "name": "controle-epi-maxiplast",
+  "version": "1.0.0",
+  "description": "Sistema de Controle de Equipamentos de Proteção Individual (EPIs) desenvolvido para a MAXIPLAST",
+  "private": true,
+  "scripts": {
+    "dev": "cd controle && npm run dev",
+    "build": "cd controle && npm run build", 
+    "start": "cd controle && npm run start",
+    "lint": "cd controle && npm run lint",
+    "install-all": "cd controle && npm install && cd ../functions && npm install",
+    "deploy-functions": "firebase deploy --only functions",
+    "deploy-hosting": "firebase deploy --only hosting",
+    "deploy": "firebase deploy"
+  },
+  "keywords": [
+    "epi",
+    "safety",
+    "controle",
+    "equipamentos-protecao",
+    "maxiplast",
+    "nextjs",
+    "firebase",
+    "typescript"
+  ],
+  "author": "MAXIPLAST",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/ControleEPI.git"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  }
+}
