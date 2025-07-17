@@ -236,10 +236,4 @@ Este projeto foi desenvolvido exclusivamente para a **MAXIPLAST** e contém func
 
 Este sistema foi desenvolvido para atender às necessidades específicas de controle de EPIs da MAXIPLAST, garantindo a segurança e conformidade dos colaboradores com as normas de segurança do trabalho.
 
-## 📞 Suporte
-
-Para dúvidas ou suporte técnico, entre em contato com a equipe de TI da MAXIPLAST.
-
----
-
 **⚠️ Importante**: Este sistema gerencia informações críticas de segurança do trabalho. Sempre mantenha os dados atualizados e monitore regularmente os relatórios para garantir a segurança dos colaboradores.
