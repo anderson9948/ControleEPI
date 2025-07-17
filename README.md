@@ -166,8 +166,8 @@ firebase deploy --only hosting
 
 ### 2. Registro de Entrega de EPI
 - Localize o colaborador na lista
-- Clique em "Entregar EPI"
 - A data será registrada automaticamente
+- Altere conforme a data desejada
 - O sistema calculará a nova data de validade
 
 ### 3. Monitoramento
