@@ -182,7 +182,31 @@ O sistema envia automaticamente por email:
 - Lista de EPIs para renovar (atenção)
 - Resumo geral por tipo de EPI
 
-## 🔧 Personalização
+## � Exemplo de Email Automático
+
+O sistema gera relatórios profissionais em HTML enviados diretamente para o email dos gestores:
+
+### 📱 Visualização do Email
+![Exemplo de Email do Sistema EPI](./images/exemplo-email-epi.png)
+
+*Exemplo real do email automático gerado pelo sistema*
+
+### 🎯 Características do Email:
+- **📊 Cabeçalho informativo** com data e horário
+- **🚨 Seção de EPIs críticos** (vencidos) em destaque vermelho
+- **⚠️ Seção de atenção** (próximos ao vencimento) em laranja
+- **✅ Status OK** quando não há problemas
+- **📋 Resumo executivo** com totais por categoria
+- **📱 Design responsivo** para mobile e desktop
+
+### 📝 Informações Detalhadas:
+Cada colaborador listado inclui:
+- Nome completo
+- Setor de trabalho  
+- Dias em atraso (críticos) ou dias restantes (atenção)
+- Status atual (trabalhando, afastado, etc.)
+
+## �🔧 Personalização
 
 ### Alterando Prazos de Validade
 
