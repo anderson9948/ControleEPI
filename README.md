@@ -75,7 +75,7 @@ ControleEPI/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/ControleEPI.git
+git clone https://github.com/anderson9948/ControleEPI.git
 cd ControleEPI
 ```
 
